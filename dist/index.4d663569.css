@@ -1,6 +1,37 @@
-h1 {
-  color: #ff69b4;
-  font-family: cursive;
+.btn {
+  border: none;
+  border-radius: 8px;
+  font-family: Inter;
+  font-weight: 600;
+}
+
+.btn-primary {
+  background-color: var(--colors-red-400);
+  color: var(--colors-red-50);
+}
+
+.btn-primary:hover {
+  background-color: var(--colors-red-500);
+}
+
+.btn-secondary {
+  background-color: var(--colors-grey-100);
+  color: var(--colors-grey-900);
+}
+
+.btn-secondary:hover {
+  background-color: var(--colors-grey-200);
+}
+
+.btn-md {
+  padding: 10px 16px;
+  font-size: 1rem;
+  line-height: 24px;
+}
+
+.container {
+  text-align: center;
+  padding-top: 80px;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */

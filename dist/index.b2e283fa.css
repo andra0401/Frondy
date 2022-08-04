@@ -1,12 +1,7 @@
-/**
- * Do not edit directly
- * Generated on Thu, 04 Aug 2022 15:03:30 GMT
- */
-
 :root {
   --colors-black: #171717;
-  --colors-white: #ffffff;
-  --colors-red-50: #FFF5F7;
+  --colors-white: #fff;
+  --colors-red-50: #fff5f7;
   --colors-red-100: #fce8ec;
   --colors-red-200: #f9d0d9;
   --colors-red-300: #f2a2b3;
@@ -28,14 +23,16 @@
   --colors-blue-800: #182162;
   --colors-blue-900: #0c1131;
   --colors-blue-950: #060818;
-  --colors-grey-50: #F8FAFC;
-  --colors-grey-100: #F1F5F9;
-  --colors-grey-200: #E2E8F0;
-  --colors-grey-300: #CBD5E1;
-  --colors-grey-400: #94A3B8;
-  --colors-grey-500: #64748B;
+  --colors-grey-50: #f8fafc;
+  --colors-grey-100: #f1f5f9;
+  --colors-grey-200: #e2e8f0;
+  --colors-grey-300: #cbd5e1;
+  --colors-grey-400: #94a3b8;
+  --colors-grey-500: #64748b;
   --colors-grey-600: #475569;
   --colors-grey-700: #334155;
-  --colors-grey-800: #1E293B;
-  --colors-grey-900: #0F172A;
+  --colors-grey-800: #1e293b;
+  --colors-grey-900: #0f172a;
 }
+
+/*# sourceMappingURL=index.b2e283fa.css.map */
