@@ -26,7 +26,7 @@
         "type": "color"
       },
       "400": {
-        "value": "#e95c7b",
+        "value": "#f25476",
         "type": "color"
       },
       "500": {
@@ -142,5 +142,6 @@
         "type": "color"
       }
     }
-  }
+  },
+  "$themes": []
 }
